@@ -1,0 +1,1 @@
+ALTER TABLE orders ADD order_total DECIMAL(10, 2) NOT NULL;
